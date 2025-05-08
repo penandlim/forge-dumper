@@ -1,4 +1,4 @@
-## ForgeDumper Usage
+## ForgeDumper Usage 💩
 
 `ForgeDumper` is a Solidity library designed to dump the current forge test state into a JSON file that is compatible with Anvil's `anvil_loadState` RPC method. This is useful for creating reproducible test environments or for inspecting state at specific points in your tests.
 
